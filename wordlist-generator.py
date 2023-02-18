@@ -8,7 +8,7 @@ print("Çıkmak için 'exit yazabilirsiniz.")
 firstinput = input("Seçiminiz : ")
 while True:
     if firstinput == 'start':
-        print("\nSistemi durdurmak için 'yeterli' yazınız :D\n ")
+        print("\nSistemi durdurmak için 'yeterli' yazınız\n ")
         inputs = []
         sayac = 0
 
