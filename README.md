@@ -1,4 +1,4 @@
-# Worlist-Generator
+# Wordlist-Generator
 Kaba kuvvet saldırıları için kurbana yönelik wordlist oluşturma amacıyla kullanabilirsiniz.
 
 ![Starting Page](https://user-images.githubusercontent.com/94756954/219878785-6fc12b59-fe52-4017-bae7-20f1b5593571.png)
